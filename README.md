@@ -1,1 +1,1 @@
-# DecodeLbs-Internship
+# DecodeLabs-Internship
